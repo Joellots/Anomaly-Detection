@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/8de2c6197c604ad8a4934e43b761c82f/artifacts
+end_time: 1707571456701
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: 8de2c6197c604ad8a4934e43b761c82f
+run_name: able-goat-457
+run_uuid: 8de2c6197c604ad8a4934e43b761c82f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707571456682
+status: 3
+tags: []
+user_id: okore

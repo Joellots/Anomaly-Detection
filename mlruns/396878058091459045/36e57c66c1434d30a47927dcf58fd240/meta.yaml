@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/36e57c66c1434d30a47927dcf58fd240/artifacts
+end_time: 1707489787503
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: 36e57c66c1434d30a47927dcf58fd240
+run_name: big-finch-26
+run_uuid: 36e57c66c1434d30a47927dcf58fd240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707489787479
+status: 3
+tags: []
+user_id: okore

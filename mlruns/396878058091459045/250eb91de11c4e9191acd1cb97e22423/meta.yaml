@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/250eb91de11c4e9191acd1cb97e22423/artifacts
+end_time: 1707473659261
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: 250eb91de11c4e9191acd1cb97e22423
+run_name: fearless-stork-281
+run_uuid: 250eb91de11c4e9191acd1cb97e22423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473659173
+status: 3
+tags: []
+user_id: okore

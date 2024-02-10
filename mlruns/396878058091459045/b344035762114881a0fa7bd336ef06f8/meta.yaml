@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/b344035762114881a0fa7bd336ef06f8/artifacts
+end_time: 1707489843985
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: b344035762114881a0fa7bd336ef06f8
+run_name: marvelous-elk-724
+run_uuid: b344035762114881a0fa7bd336ef06f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707489843965
+status: 3
+tags: []
+user_id: okore

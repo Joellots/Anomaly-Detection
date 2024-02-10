@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/e5f7adff20fd45f298ca3083e4fe3b1b/artifacts
+end_time: 1707487326664
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: e5f7adff20fd45f298ca3083e4fe3b1b
+run_name: rare-turtle-651
+run_uuid: e5f7adff20fd45f298ca3083e4fe3b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707487326643
+status: 3
+tags: []
+user_id: okore

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/243e72a104954673accc23006f1b1614/artifacts
+end_time: 1707489527535
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: 243e72a104954673accc23006f1b1614
+run_name: intelligent-wasp-196
+run_uuid: 243e72a104954673accc23006f1b1614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707489527515
+status: 3
+tags: []
+user_id: okore

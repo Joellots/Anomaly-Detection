@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/2c473778370e4580a40539b7ecfa0d33/artifacts
+end_time: 1707473483590
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: 2c473778370e4580a40539b7ecfa0d33
+run_name: industrious-carp-686
+run_uuid: 2c473778370e4580a40539b7ecfa0d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473483522
+status: 3
+tags: []
+user_id: okore

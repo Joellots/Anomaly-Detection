@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/d0d1e9dba4de43d19193ea02fd68aaaf/artifacts
+end_time: 1707572113152
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: d0d1e9dba4de43d19193ea02fd68aaaf
+run_name: bustling-ant-990
+run_uuid: d0d1e9dba4de43d19193ea02fd68aaaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707572113133
+status: 3
+tags: []
+user_id: okore

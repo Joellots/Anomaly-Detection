@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/1a252238289f4e6591540059a607c650/artifacts
+end_time: 1707574251173
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: 1a252238289f4e6591540059a607c650
+run_name: colorful-snipe-803
+run_uuid: 1a252238289f4e6591540059a607c650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707574251150
+status: 3
+tags: []
+user_id: okore

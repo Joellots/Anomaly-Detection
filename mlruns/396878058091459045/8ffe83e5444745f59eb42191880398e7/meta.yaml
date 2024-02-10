@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/okore/OneDrive/Desktop/MACHINE_LEARNING/Anomaly_Detection/mlruns/396878058091459045/8ffe83e5444745f59eb42191880398e7/artifacts
+end_time: 1707488645582
+entry_point_name: ''
+experiment_id: '396878058091459045'
+lifecycle_stage: active
+run_id: 8ffe83e5444745f59eb42191880398e7
+run_name: stately-lynx-642
+run_uuid: 8ffe83e5444745f59eb42191880398e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707488645558
+status: 3
+tags: []
+user_id: okore
